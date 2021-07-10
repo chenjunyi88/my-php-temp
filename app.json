@@ -4,21 +4,6 @@
   "website": "https://github.com//chenjunyi88/my-php-temp",
   "repository": "https://github.com//chenjunyi88/my-php-temp",
   "env": {  
-        "a1_name": {
-            "description": "全局名字",
-            "value": "cgffgdf"
-        },
-	    "a2_tenant_id": {
-            "description": "tenant_id",
-            "value": "2a5fgfg9c-efd7-4gfg4-84f4-f2gfgfgfg2887"
-        },
-	    "a3_client_id": {
-            "description": "client_id",
-            "value": "fc5efgf11a3-ffd-b87c-e40fd313efb"
-        },
-        "a4_client_secret": {
-            "description": "client_secret",
-            "value": "j4U4.35v_dsfsddsfsdfmZ-a3a15Eh7sM_"
-        },  
+        
   }    
 }
