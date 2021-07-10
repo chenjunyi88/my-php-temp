@@ -2,11 +2,6 @@
 if( $_SERVER['HTTP_REFERER'] == "" ){echo "error";exit;}//不允许直接访问该文件
 
 //配置区
-//'name' =>getenv("a1_name");
-//'username' =>getenv("a1_username");
-//'email' =>getenv("a1_email");
-//'token' =>getenv("a1_token");
-//'repo' =>getenv("a1_repo");
 
 $name = 'chenjunyi88';//Github的昵称
 $username = 'chenjunyi88';//Github的用户名
