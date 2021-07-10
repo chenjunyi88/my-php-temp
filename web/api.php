@@ -11,8 +11,8 @@ if( $_SERVER['HTTP_REFERER'] == "" ){echo "error";exit;}//不允许直接访问�
 $name = 'chenjunyi88';//Github的昵称
 $username = 'chenjunyi88';//Github的用户名
 $email = 'chenjunyi88@gmail.com';//Github绑定的邮箱
-$token = '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';//获取的Token
-$repo = 'my-file2link';//库名称
+$token = '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';//获取的Token
+$repo = 'picgo';//库名称
 
 //各种函数
 class commonFunction{
